@@ -1,0 +1,45 @@
+{
+  "name": "create-express-ts-app",
+  "version": "1.0.0",
+  "description": "A CLI tool to create Express TypeScript applications with best practices",
+  "main": "index.js",
+  "bin": {
+    "create-express-ts-app": "./bin/create-express-ts.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "generator",
+    "template",
+    "boilerplate",
+    "starter",
+    "api",
+    "rest",
+    "backend"
+  ],
+  "author": "Your Name beras5170@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saikat123Dev/create-express-ts-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Saikat123Dev/create-express-ts-app/issues"
+  },
+  "homepage": "https://github.com/Saikat123Dev/create-express-ts-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin",
+    "template",
+    "README.md",
+    "LICENSE"
+  ]
+}
